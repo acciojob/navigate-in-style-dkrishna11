@@ -3,9 +3,14 @@
 	display:inline;
 	background-color:#D3D3D3;
 	padding:10px;
+	
+}
+
+.container ul{
 	display: flex;
 }
 
-.container a{
+.container li{
 	margin-right:1rem;
+	list-style:none;
 }
