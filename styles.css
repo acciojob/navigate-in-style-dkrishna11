@@ -1,10 +1,11 @@
 /*  your css code here. If applicable */
-.nav-bar{
+.container{
 	display:inline;
 	background-color:#D3D3D3;
 	padding:10px;
+	display: flex;
 }
 
-.nav-bar a{
+.container a{
 	margin-right:1rem;
 }
